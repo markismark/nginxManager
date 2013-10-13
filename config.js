@@ -1,0 +1,10 @@
+exports.appConfig={
+	port:3000,
+	userName:"admin",
+	userPwd:"esri@123",
+	nginxConfPath:"/usr/local/nginx/conf",
+	nginxPath:"/usr/local/nginx/sbin",
+	templatePath:"template.conf",
+	templatePathIsRalative:"true",
+	templateFileReplaceFlag:"########"
+}
